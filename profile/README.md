@@ -3,6 +3,5 @@
 <h2 align="left">👨🏻‍💻 We are a PROFESSIONAL team of HOT programmers from Moscow</h2>
 
 # The Team
-<h3 align="left">👨🏻‍💻 We are a PROFESSIONAL team of HOT programmers from Moscow </h3>
 
 
