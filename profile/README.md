@@ -25,7 +25,7 @@
 
 <h3 align="left" style="font-size: 36px; color: #FF5733; font-weight: bold; text-transform: uppercase;" href="">-------------------------</h3>
 
-[<img src="https://github.com/Garlic-Toasts/.github/assets/163736717/d5018c6e-29a1-4fbb-bc66-69a5b2c3adc6" width=200px>](https://dano.hse.ru/hackathon_nes_2024)
+[<img src="https://github.com/Garlic-Toasts/.github/assets/163736717/d5018c6e-29a1-4fbb-bc66-69a5b2c3adc6" width=200px>](https://nuclearhack.mephi.ru/)
 
 <h3 align="left" style="font-size: 36px; color: #FF5733; font-weight: bold; text-transform: uppercase;">Participants</h3>
 
