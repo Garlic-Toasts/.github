@@ -27,6 +27,6 @@
 
 [<img src="https://github.com/Garlic-Toasts/.github/assets/163736717/d5018c6e-29a1-4fbb-bc66-69a5b2c3adc6" width=200px>](https://nuclearhack.mephi.ru/)
 
-<h3 align="left" style="font-size: 36px; color: #FF5733; font-weight: bold; text-transform: uppercase;">Participants</h3>
+<h3 align="left" style="font-size: 36px; color: #FF5733; font-weight: bold; text-transform: uppercase;">Participants (4th place)</h3>
 
 <a href="https://github.com/Garlic-Toasts/web_auth" target="_blank">Repo</a>
