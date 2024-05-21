@@ -3,18 +3,18 @@
 
 <h2 align="left" style="font-size: 36px; color: #FF5733; font-weight: bold; text-transform: uppercase;">🤝 The Team</h2>
 
-<h3 align="left" style="font-size: 36px; color: #FF5733; font-weight: bold; text-transform: uppercase;">Sinyshapmen (Eugene)</h3>
+<h4 align="left" style="font-size: 36px; color: #FF5733; font-weight: bold; text-transform: uppercase;">Sinyshapmen (Eugene)</h4>
 
  [<img src="https://github.com/Garlic-Toasts/.github/blob/main/avs/sin.png?raw=true" width=100px>](https://github.com/sinyshapmen)
 
-<h3 align="left" style="font-size: 36px; color: #FF5733; font-weight: bold; text-transform: uppercase;">N3wSk1Y (Dmitriy)</h3>
+<h4 align="left" style="font-size: 36px; color: #FF5733; font-weight: bold; text-transform: uppercase;">N3wSk1Y (Dmitriy)</h4>
 
  [<img src="https://github.com/Garlic-Toasts/.github/blob/main/avs/dmit.png?raw=true" width=100px>](https://github.com/N3wSk1Y)
 
-<h3 align="left" style="font-size: 36px; color: #FF5733; font-weight: bold; text-transform: uppercase;">Gregory</h3>
+<h4 align="left" style="font-size: 36px; color: #FF5733; font-weight: bold; text-transform: uppercase;">Gregory</h4>
 
 [<img src="https://github.com/Garlic-Toasts/.github/blob/main/avs/greg.jpg?raw=true" width=100px>](https://github.com/Gregory-coder)
-<h1 align="left" style="font-size: 36px; color: #FF5733; font-weight: bold; text-transform: uppercase;">📈 Experience</h1>
+<h2 align="left" style="font-size: 36px; color: #FF5733; font-weight: bold; text-transform: uppercase;">📈 Experience</h2>
 
 [<img src="https://github.com/Garlic-Toasts/.github/blob/main/achievements/DANO%202024%20SPB.png?raw=true" >](https://dano.hse.ru/hackathon_itmo_2024)
 
