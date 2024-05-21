@@ -3,7 +3,7 @@
 
 <h2 align="left" style="font-size: 36px; color: #FF5733; font-weight: bold; text-transform: uppercase;">🤝 The Team</h2>
 
-<h4 align="left" style="font-size: 36px; color: #FF5733; font-weight: bold; text-transform: uppercase;">Sinyshapmen (Eugene)</h4>
+<h4 align="left" style="font-size: 36px; color: #FF5733; font-weight: bold; text-transform: uppercase;">Sinyshapmen (Evgeny)</h4>
 
  [<img src="https://github.com/Garlic-Toasts/.github/blob/main/avs/sin.png?raw=true" width=100px>](https://github.com/sinyshapmen)
 
