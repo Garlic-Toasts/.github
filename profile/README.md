@@ -13,7 +13,7 @@
 
 <h4 align="left" style="font-size: 36px; color: #FF5733; font-weight: bold; text-transform: uppercase;">Gregory</h4>
 
-[<img src="https://github.com/Garlic-Toasts/.github/blob/main/avs/greg.jpg?raw=true" width=100px>](https://github.com/Gregory-coder)
+[<img src="https://github.com/Garlic-Toasts/.github/blob/main/avs/greg.jpg?raw=true" width=100px>](https://github.com/mysterious-hatter)
 <h2 align="left" style="font-size: 36px; color: #FF5733; font-weight: bold; text-transform: uppercase;">📈 Experience</h2>
 
 [<img src="https://github.com/Garlic-Toasts/.github/blob/main/achievements/DANO%202024%20SPB.png?raw=true" >](https://dano.hse.ru/hackathon_itmo_2024)
